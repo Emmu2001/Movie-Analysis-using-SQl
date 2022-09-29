@@ -1,0 +1,18 @@
+Download MovieLens dataset from following URL:
+https://grouplens.org/datasets/movielens/25m/
+
+Use below URL to know more on the above dataset:
+http://files.grouplens.org/datasets/movielens/ml-25m-README.html
+
+
+Now do the following:
+(a) Construct SQL tables to insert above data. Include all integrity constraints such as
+Primary key, Foreign key, default and check constraints after carefully examining
+the data
+(b) Populate the data in the tables using PostgreSQL
+(c) Form at-least 10 questions and write SQL queries for the same
+(d) Convert the given dataset in at-least 3NF form
+(e) Draw ER diagram for the given database after converting it into 3NF
+(f) Connect the database to Java using any one Java IDE such as Netbeans / Eclipse
+and JDBC driver
+(g) Show any 5 SQL queries within Netbeans / Eclipse
